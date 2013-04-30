@@ -5,8 +5,6 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
 safe: true
-source: design_report
-destination: /
 lsi: false
 pygments: true
 
