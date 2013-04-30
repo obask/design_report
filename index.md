@@ -54,9 +54,9 @@ We need to clean up the themes, make theme usage guides with theme-specific mark
 <button class='btn btn-large' id='send'> Send! </button>
 
 
-<script src='/assets/js/jquery.min.js'> ololo </script>
-<script src='/assets/js/prettify.js'> ololo </script>
-<script src='/assets/epiceditor/js/epiceditor.js'> ololo </script>
+<script src="{{ BASE_PATH }}/assets/js/jquery.min.js"> ololo </script>
+<script src="{{ BASE_PATH }}/assets/js/prettify.js"> ololo </script>
+<script src='{{ BASE_PATH }}/assets/epiceditor/js/epiceditor.js'> ololo </script>
 
 
 <script type='text/javascript'>
