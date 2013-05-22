@@ -3,7 +3,6 @@ layout: page
 title: "Lab4 Scenario"
 description: ""
 ---
-{% include JB/setup %}
 
 [lab4\_scenario](../../m81MZh.html)
 ===================================

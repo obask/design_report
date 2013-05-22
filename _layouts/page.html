@@ -1,5 +1,15 @@
 ---
-layout: default
+layout: base
 ---
-{% include JB/setup %}
-{% include themes/mark-reid/page.html %}
+
+<style>
+img {max-width: 700px;}
+</style>
+
+        {% include header-home.html %}
+		{% include nav.html %}
+		<div id="notebook" class="center clear">
+            <div class="page-content colEight">
+                {{ content }}
+            </div> <!-- /.page-content.colEight -->
+        </div> <!-- /#notebook.center.clear -->

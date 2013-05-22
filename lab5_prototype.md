@@ -3,7 +3,6 @@ layout: page
 title: "Lab5 Prototype"
 description: ""
 ---
-{% include JB/setup %}
 
 
 [lab5\_prototype copy](../../2yWOea.html)

@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: base
 title: "Lab3 Ideas"
 description: ""
 ---
-{% include JB/setup %}
 
 
 [lab3\_ideas](../../mI0mjm.html)
