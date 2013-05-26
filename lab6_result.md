@@ -4,21 +4,12 @@ title: "Lab6 Result"
 description: ""
 ---
 
-lab6\_results
-=============
-
-Oleg Baskakov
-
-Interface Design Report
-
- 
-
-Создание книжной коллекции в интернете
-======================================
+Lab6
+====
 
 
-Результат
-=========
+lab6 results
+------------
 
 http://spetz911.github.com/bookmine/
 
@@ -42,8 +33,6 @@ http://spetz911.github.com/bookmine/
 
 Решена пробема централизованного сервера(архитектура звезда) и хранения
 контента(Dropbox/public).
-
-
 
 ### Входные форматы:
 - AZW4 
@@ -70,9 +59,8 @@ http://spetz911.github.com/bookmine/
  
 
  
-
 Выводы
-======
+------
 
 Главный вывод -- конкуренты в этой области уже на недостежимой высоте,
 так что есть смысл стремиться решить свою конкретную проблему а не
@@ -91,21 +79,3 @@ http://spetz911.github.com/bookmine/
 
 Процесс дизайна трудоемкий -- не стоит откладывать на последний момент,
 иначе можно закопаться в деталях реализации.
-
- 
-
- 
-
- 
-
-[Table of contents](../../7WrRjA.html)
---------------------------------------
-
--   [Interface Design Report](chapter-1.xhtml)
-    -   [Создание книжной коллекции в
-        интернете](chapter-1.xhtml#chapter-1-sh1)
-    -   [Результат](chapter-1.xhtml#chapter-1-sh2)
-    -   [Выводы](chapter-1.xhtml#chapter-1-sh3)
-
-[previous page](../../7WrRjA.html) [start](../../7WrRjA.html)
-

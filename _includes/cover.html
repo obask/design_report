@@ -1,8 +1,8 @@
         <div id="cover" class="clear">
 			<div class="index colSix floatLeft">
-				<h2>Recently from the <em>Notebook</em>&hellip;</h2>
+				<h2>List of <em>applications</em>&hellip;</h2>
 				<ul>
-				    {% for post in site.posts limit:3 %}
+				    {% for post in site.posts limit:7 %}
 					<li>
 						<a href="{{ post.url }}/#notebook" title="{{ post.title }}">
 							<span class="date">
@@ -16,12 +16,5 @@
 				</ul>
 				<p class="more"><a class="internal floatRight" href="/archives.html#cover" title="View the notebook archives">&hellip;flick through the archives</a></p>
 			</div> <!-- /.index.colSix.floatLeft -->
-			<div class="subhero-preview colFour floatRight">
-				<h2>Recently from the <em>Podcast</em>&hellip;</h2>
-				<h3><!-- <span class="episode-no">Episode 06</span>&thinsp;&mdash;&thinsp; --><span class="episode-title">&lsquo;Setting standards-friendly web type&rsquo;</span></h3>
-				<p>Recorded audio from the Web Direction South 2010 talk.</p>
-				<p>Talk covers techniques available to set web type that is accessible but also pleasurable to read.</p>
-				<p class="more"><a class="internal floatRight" href="/web-directions-south-typography/#notebook" title="klepas.org: &lsquo;Web Direction South typography talk&rsquo;">&hellip;listen to the show</a></p>
-			</div>
 			<div class="clear"></div>
 		</div> <!-- /#cover.clear -->

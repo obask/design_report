@@ -4,20 +4,16 @@ title: "Lab2 Concurents"
 description: ""
 ---
 
-lab2 Concurents
-=====================================
+Lab2
+====
 
-Oleg Baskakov
+Самые актуальные
+----------------
 
-[previous page](cover.xhtml)
+### [libgen.info](http://libgen.info)
+![screen_libgen](images/screen_libgen.png)
 
-конкуренты
-
-(тысячи их)
-
-### libgen.info
-
-...
+Проблема этой замечательной библиотеки в медленной скорости работы(т.к. большая коллекция), невозможности оценить контент до перехода на страницу и сложности в том чтобы подобрать книгу конкретного формата в силу дублирования карточек.
 
 
 ### [Traum Library](http://traumlibrary.net/lgru.html)
@@ -30,11 +26,12 @@ Oleg Baskakov
 
 ### [http://english-e-books.net](http://english-e-books.net)
 \* Just good site
-![](images/Screen_Shot_2013-05-22.jp2)
+![...](images/Screen_Shot_2013-05-22.jp2)
 
 ADAPTED EBOOKS – BEST CHOICE TO LEARN ENGLISH. DOWNLOAD EBOOKS FOR YOUR DEVICE FOR FREE! 
-Greate site =) And design
-Реализует функционал, схожий с моиим но на wordpress'e =)
+Greate site & design =)
+
+Реализует функционал, схожий с моим, но на wordpress'e =)
 
 ### [http://lib.ru](http://lib.ru)
 
@@ -159,7 +156,6 @@ ISBN. Часть книг у меня были в fb2 и там была уже 
 \*нравится что по каждому автору есть библиография. Жаль что без
 рейтингов.
 
-![droppedImage.png](images/droppedImage.png)
 
 [Лучшие книги](http://www.livelib.ru/author/48/top) [Книги по
 дате](http://www.livelib.ru/author/48/latest)
@@ -266,6 +262,10 @@ LiveLib, пока полупустой, находится
 
 [http://www.goodreads.com](http://www.goodreads.com) 
 ----------------------------------------------------
+
+
+![droppedImage.png](images/droppedImage.png)
+
 
 Симпатичный сайт. Имееет интеграцию с facebook, друзья пользуются.
 
@@ -585,33 +585,6 @@ with friends, find out more information about a book or author, and
 connect with people who have similar interests.
 
  
-Книги онлайн 
-------------
-
-#### Haskell 
-
-- [http://book.realworldhaskell.org/read/](http://book.realworldhaskell.org/read/)
-- [http://learnyouahaskell.com/chapters](http://learnyouahaskell.com/chapters)
-
-#### Erlang 
-
-- [http://learnyousomeerlang.com/content](http://learnyousomeerlang.com/content)
-
-#### Scala
-
-- [Programming Scala](http://ofps.oreilly.com/titles/9780596155957/)
-
-#### Node.js 
-
-- [Up and Running with Node.js](http://ofps.oreilly.com/titles/9781449398583/)
-
-
-#### JavaScript 
-
-- [http://eloquentjavascript.net](http://eloquentjavascript.net/)
-
-- [http://addyosmani.github.com/backbone-fundamentals/](http://addyosmani.github.com/backbone-fundamentals/)
-
 
 Прочее...
 ---------
@@ -849,12 +822,14 @@ Alarm!! компанию-конкурента bookmate настигли рейд
 
 унылый сайт, ведет на ozon.ru
 
- 
+
 
 библиотечка IT 
 --------------
 
 ### [http://www.codeschool.com/courses](http://www.codeschool.com/courses)
+
+![CodeSchool](images/CodeSchool.jp2)
 
 "Is seriously bad-ass, next-generation learning."
 
@@ -862,7 +837,7 @@ Alarm!! компанию-конкурента bookmate настигли рейд
 
 показывает в какую сторон движутся методы обучения
 
-\*хотя до “Матрицы” функционалом не дотягивает
+\* хотя до “Матрицы” функционалом не дотягивает
 
  
 
