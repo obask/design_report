@@ -12,13 +12,13 @@ paginate: 17
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Bookmine_doc
-tagline: book library for geeks home
+title : Bookmine documentation
+tagline: Book library for geeks home
 author :
   name : Oleg Baskskov
-  email : blah@email.test
-  github : username
-  twitter : username
+  email : spetz911@gmail.com
+  github : spetz911
+  twitter : spetzia
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -29,7 +29,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://spetz229.github.io/bookmine
+production_url : http://spetz911.github.io/design_report
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -58,7 +58,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://spetz229.github.io/bookmine
+  BASE_PATH : http://spetz911.github.io/design_report
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
