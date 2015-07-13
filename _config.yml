@@ -16,10 +16,8 @@ title : Bookmine documentation
 tagline: Book library for geeks home
 author :
   name : Oleg Baskskov
-  email : spetz911@gmail.com
-  github : spetz911
-  twitter : spetzia
-  feedburner : feedname
+  email : obask@icloud.com
+  github : obask
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -29,7 +27,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://spetz911.github.io/design_report
+production_url : http://obask.github.io/design_report
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -58,7 +56,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://spetz911.github.io/design_report
+  BASE_PATH : http://obask.github.io/design_report
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -68,7 +66,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : http://spetz911.github.io/design_report
+  ASSET_PATH : http://obask.github.io/design_report
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
